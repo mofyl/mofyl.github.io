@@ -93,8 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-
+theme: next
 deploy:
   type: git
   repository: https://github.com/mofyl/mofyl.github.io.git
